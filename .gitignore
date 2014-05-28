@@ -1,5 +1,6 @@
 gitclone.sh
 *.rbc
+*.swp
 capybara-*.html
 .rspec
 /log
