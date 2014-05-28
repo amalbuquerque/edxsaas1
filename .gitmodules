@@ -1,3 +1,6 @@
 [submodule "hw1"]
 	path = hw1
 	url = https://github.com/lejboua/ruby-calisthenics.git
+[submodule "hw2"]
+	path = hw2
+	url = https://github.com/lejboua/rails-intro.git
