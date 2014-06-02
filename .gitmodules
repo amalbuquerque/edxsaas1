@@ -4,3 +4,6 @@
 [submodule "hw2"]
 	path = hw2
 	url = https://github.com/lejboua/rails-intro.git
+[submodule "hw3"]
+	path = hw3
+	url = https://github.com/lejboua/bdd-cucumber.git
