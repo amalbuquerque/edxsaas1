@@ -7,3 +7,6 @@
 [submodule "hw3"]
 	path = hw3
 	url = https://github.com/lejboua/bdd-cucumber.git
+[submodule "hw4"]
+	path = hw4
+	url = https://github.com/lejboua/bdd-tdd-cycle
